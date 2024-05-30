@@ -12,7 +12,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-patil-704506259/) 
 
 
-<h3 align="center">Active On:</h3>
+<h3 align="center">👨🏻‍💻Active On:</h3>
 
 <div align="center">
   
