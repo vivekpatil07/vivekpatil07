@@ -16,7 +16,12 @@
 
 <div align="center">
   
-  [![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/vivekpatil23/) 
+  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vivekpatil23/)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekpatixbr2/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vivekpatil198847)
+
+
+
   
 </div>
 
