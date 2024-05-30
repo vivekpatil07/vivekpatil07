@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Patil</h1>
 
-<p align="center">Enthusiastic programmer with a passion for learning and exploring various programming languages and concepts. Continuously improving my skills and knowledge in the world of programming and technology.</p>
+<p align="center">Full-Stack Developer experienced in Java, SpringBoot, AngularJS, Typescript and many more. Enthusiastic programmer with a passion for learning and exploring various programming languages and concepts. Continuously improving my skills and knowledge in the world of programming and technology.
 
 <h4 align="center"><a align="center" href='https://drive.google.com/file/d/1QCs6HG5AeJwLEzRhktmKIJL_m9EMqkWw/view'>RESUME</a></h5>
 
