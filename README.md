@@ -49,14 +49,9 @@
 
 <h3 align="center"> 📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishsinhaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatil07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center"> ✍️ Random Dev Quote:</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=anishsinhaa&icon=0&color=8)](https://visitcount.itsvg.in)
 
 </div>
