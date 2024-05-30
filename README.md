@@ -9,8 +9,14 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-sinha-751025236) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_anishsinha_)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-patil-704506259/) 
+
+
+<h3 align="center">Active On:</h3>
+
+<div align="center">
+  
+  [![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/u/vivekpatil23/) 
   
 </div>
 
